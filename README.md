@@ -12,3 +12,6 @@ This repository contains the code for our paper on [PixJS: A novel chaos-based a
   publisher={Wiley Online Library}
 }
 ```
+
+## License
+This project is licensed under the GNU General Public License v3.0. See LICENSE for more details
