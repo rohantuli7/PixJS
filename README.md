@@ -1,6 +1,6 @@
 # PixJS
 
-This repository contains the code for our paper on [PixJS: A novel chaos-based approach for image encryption] (https://doi.org/10.1002/cpe.6990). If you use any of our code, please cite:
+This repository contains the code for our paper on [PixJS: A novel chaos-based approach for image encryption](https://doi.org/10.1002/cpe.6990). If you use any of our code, please cite:
 
 ```
 @article{tuli2022pixjs,
